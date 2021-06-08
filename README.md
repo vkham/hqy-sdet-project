@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Project Installation
 
-Navigate to hqy-sdet-project and Run 'npm install'
+Navigate into the project and Run 'npm install'
 
 ## Development server
 
